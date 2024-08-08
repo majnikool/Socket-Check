@@ -1,4 +1,3 @@
-```markdown
 # SSL Debugging and Troubleshooting Script
 
 ## Overview
